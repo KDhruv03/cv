@@ -1,4 +1,4 @@
 # cv
 <br>
 My name is Mourya
-And my surname is Gunupuru
+and my surname is Gunupuru
